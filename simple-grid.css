@@ -79,7 +79,10 @@ p {
 .right {
   text-align: right;
 }
-
+th {
+  background:lightcoral;
+  border-color: white;
+}
 .center {
   text-align: center;
   margin-left: auto;
