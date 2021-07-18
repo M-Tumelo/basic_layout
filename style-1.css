@@ -83,7 +83,9 @@ div#hamitems{
     z-index: 10;
    }
   #hamnav input:checked ~ #hamitems { 
-    display: block; 
+    display: inline-block; 
+    margin: 0;
+    width: 100%;
   }
 }
 
